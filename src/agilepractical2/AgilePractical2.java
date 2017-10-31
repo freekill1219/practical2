@@ -17,6 +17,7 @@ public class AgilePractical2 {
     public static void main(String[] args) {
         System.out.println("hoho print anything");
         System.out.println("one more line");
+        System.out.println("first branch only");
     }
     
 }
